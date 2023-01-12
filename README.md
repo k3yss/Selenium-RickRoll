@@ -13,7 +13,7 @@ Selenium RickRoll is a Python script that uses the Selenium library to automatic
 2. Clone this repository or download the script
 
     ```bash
-    git clone https://github.com/<username>/SeleniumRickRoll.git
+    git clone https://github.com/k3yss/Selenium-RickRoll.git
     ```
 
 3. Start the script
