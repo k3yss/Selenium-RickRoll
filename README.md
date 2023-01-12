@@ -4,16 +4,16 @@ Selenium RickRoll is a Python script that uses the Selenium library to automatic
 
 ## Usage
 
-1. Install necessary libraries
-
-    ```bash
-    pip install -r "requirements.txt"
-    ```
-
-2. Clone this repository or download the script
+1. Clone this repository or download the script
 
     ```bash
     git clone https://github.com/k3yss/Selenium-RickRoll.git
+    ```
+
+2. Install necessary libraries
+
+    ```bash
+    pip install -r "requirements.txt"
     ```
 
 3. Start the script
