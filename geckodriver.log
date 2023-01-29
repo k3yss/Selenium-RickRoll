@@ -1,0 +1,67 @@
+1674982745740	geckodriver	INFO	Listening on 127.0.0.1:45347
+1674982746265	mozrunner::runner	INFO	Running command: "/usr/sbin/firefox" "--marionette" "--remote-debugging-port" "36335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6QMmqw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674982746696	Marionette	INFO	Marionette enabled
+1674982746699	Marionette	INFO	Listening on port 41413
+Read port: 41413
+WebDriver BiDi listening on ws://127.0.0.1:36335
+1674982746828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6QMmqw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36335/devtools/browser/bb582a7b-b375-416f-9db2-42707384f6bd
+1674982750070	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-01-29T08:59:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T08:59:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T08:59:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T08:59:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T08:59:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T08:59:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T08:59:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T08:59:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674982861224	Marionette	INFO	Stopped listening on port 41413
+1674982877709	geckodriver	INFO	Listening on 127.0.0.1:51973
+1674982877728	mozrunner::runner	INFO	Running command: "/usr/sbin/firefox" "--marionette" "--remote-debugging-port" "42469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilearBrQv"
+
+(firefox:7390): Gtk-WARNING **: 14:31:17.742: Locale not supported by C library.
+	Using the fallback 'C' locale.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674982878130	Marionette	INFO	Marionette enabled
+1674982878133	Marionette	INFO	Listening on port 33217
+Read port: 33217
+WebDriver BiDi listening on ws://127.0.0.1:42469
+1674982878274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilearBrQv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42469/devtools/browser/973bc1c4-58bf-4239-af6e-a1e0ccd1af39
+1674982881227	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-01-29T09:01:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T09:01:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T09:01:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T09:01:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T09:01:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T09:01:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T09:01:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-29T09:01:22Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1674982899404	Marionette	INFO	Stopped listening on port 33217
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/hMfiIRZZaMzaAz5FYaI1FR-xuNlC9MpkqGZdkT5mV6Q.js line 2 > eval, line 3239: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/?themeRefresh=1, line 12: TypeError: can't access dead object
